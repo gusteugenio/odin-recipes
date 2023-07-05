@@ -1,21 +1,21 @@
 body {
     font-family:'Times New Roman', Times, serif;
+    background-color: rgb(255, 231, 136);
 }
 
 h1 {
-    color: orange;
-    text-align: center;
+    color: white;
 }
 
 p,
 li {
-    font-size: 30px;
-    color: white;
+    font-size: 20px;
 }
 
 p {
-    text-align: center;
+    color: orangered;
 }
+
 
 h2 {
     color: red;
