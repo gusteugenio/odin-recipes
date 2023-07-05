@@ -1,0 +1,27 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+p,
+li {
+    font-size: 30px;
+    color: white;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+img {
+    height: auto;
+    width: 250px; 
+}
